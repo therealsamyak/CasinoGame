@@ -13,7 +13,7 @@
 This project involves data collection, data retrieval, and Computer Opponent coding in C++. Normally, this is all done in Python / SQL using databases, instead of the more rudamentry method we are using. However, by limiting ourselves to the basics, we are further demonstrating our knowledge of C++.
 
 Currently, our project features:
-* Multiple Casino games (Poker, Craps).
+* Poker
 
     * All games have a computer opponent.
 
